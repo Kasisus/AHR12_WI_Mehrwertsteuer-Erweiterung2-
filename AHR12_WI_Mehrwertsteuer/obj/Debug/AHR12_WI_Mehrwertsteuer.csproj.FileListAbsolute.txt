@@ -1,0 +1,80 @@
+C:\Users\lu\source\repos\AHR12_WI_Mehrwertsteuer_Vorlage\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe.config
+C:\Users\lu\source\repos\AHR12_WI_Mehrwertsteuer_Vorlage\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe
+C:\Users\lu\source\repos\AHR12_WI_Mehrwertsteuer_Vorlage\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.pdb
+C:\Users\lu\source\repos\AHR12_WI_Mehrwertsteuer_Vorlage\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csprojAssemblyReference.cache
+C:\Users\lu\source\repos\AHR12_WI_Mehrwertsteuer_Vorlage\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Form1.resources
+C:\Users\lu\source\repos\AHR12_WI_Mehrwertsteuer_Vorlage\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Properties.Resources.resources
+C:\Users\lu\source\repos\AHR12_WI_Mehrwertsteuer_Vorlage\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.GenerateResource.cache
+C:\Users\lu\source\repos\AHR12_WI_Mehrwertsteuer_Vorlage\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.CoreCompileInputs.cache
+C:\Users\lu\source\repos\AHR12_WI_Mehrwertsteuer_Vorlage\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.exe
+C:\Users\lu\source\repos\AHR12_WI_Mehrwertsteuer_Vorlage\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.pdb
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe.config
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.pdb
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csprojAssemblyReference.cache
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Form1.resources
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Properties.Resources.resources
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.GenerateResource.cache
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.CoreCompileInputs.cache
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.exe
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.pdb
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung1\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csprojAssemblyReference.cache
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung1\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Form1.resources
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung1\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Properties.Resources.resources
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung1\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.GenerateResource.cache
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung1\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.CoreCompileInputs.cache
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung1\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.exe
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung1\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.pdb
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung1\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe.config
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung1\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe
+u:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung1\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.pdb
+U:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csprojAssemblyReference.cache
+U:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Form1.resources
+U:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Properties.Resources.resources
+U:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.GenerateResource.cache
+U:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.CoreCompileInputs.cache
+U:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.exe
+U:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.pdb
+U:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe.config
+U:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe
+U:\Eigene Dateien\AHR12K\AHR12K_WI\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.pdb
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Schule\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csprojAssemblyReference.cache
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Schule\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Form1.resources
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Schule\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Properties.Resources.resources
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Schule\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.GenerateResource.cache
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Schule\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.CoreCompileInputs.cache
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Schule\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.exe
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Schule\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.pdb
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Schule\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe.config
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Schule\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Schule\200930\AHR12_WI_Mehrwertsteuer Erweiterung2\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.pdb
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2 - Kopie\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe.config
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2 - Kopie\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2 - Kopie\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.pdb
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2 - Kopie\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csprojAssemblyReference.cache
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2 - Kopie\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Form1.resources
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2 - Kopie\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Properties.Resources.resources
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2 - Kopie\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.GenerateResource.cache
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2 - Kopie\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.CoreCompileInputs.cache
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2 - Kopie\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.exe
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2 - Kopie\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.pdb
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe.config
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.pdb
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csprojAssemblyReference.cache
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Form1.resources
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Properties.Resources.resources
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.GenerateResource.cache
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.CoreCompileInputs.cache
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.exe
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\200930 Mehrwertsteuer\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.pdb
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe.config
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.exe
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\bin\Debug\AHR12_WI_Mehrwertsteuer.pdb
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csprojAssemblyReference.cache
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Form1.resources
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.Properties.Resources.resources
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.GenerateResource.cache
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.csproj.CoreCompileInputs.cache
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.exe
+C:\Users\abras\OneDrive - Berufskolleg Wirtschaft und Verwaltung Ahaus\WI (F)\C#\Zuhause\AHR12_WI_Mehrwertsteuer Erweiterung2+\AHR12_WI_Mehrwertsteuer\obj\Debug\AHR12_WI_Mehrwertsteuer.pdb
